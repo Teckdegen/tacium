@@ -27,7 +27,7 @@ const items: {
   },
   {
     title: "No API keys",
-    desc: "Your app proves who it is with a short lived OIDC token. There's no long-lived key to steal.",
+    desc: "Your app proves who it is with a short lived OIDC token. There's no long lived key to steal.",
     link: "Identity check",
     card: {
       name: "Identity",
@@ -64,7 +64,7 @@ const items: {
       status: "Live",
       rows: [
         { label: "Last access", value: "11:42", note: "api_prod", tone: "ok" },
-        { label: "Tx", value: "0x8f3a", note: "Confirmed", tone: "ok" },
+        { label: "Tx", value: "4xKq", note: "Finalized", tone: "ok" },
       ],
       pill: { label: "Unknown app", value: "", note: "Denied" },
       button: "Logged onchain",

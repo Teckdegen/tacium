@@ -123,10 +123,10 @@ export function IsoStack({ active = -1 }: { active?: number }) {
 // Audit log window for the big card.
 export function AuditLog() {
   const rows = [
-    ["11:42:08", "api_prod", "fly_iad", "0x8f3a…c21e"],
-    ["11:42:08", "api_prod", "aws_use1", "0x1b09…77fa"],
-    ["11:40:51", "worker", "hz_fsn1", "0xc4d2…0a13"],
-    ["11:37:12", "ci_deploy", "do_ams3", "0x5e7b…92cd"],
+    ["11:42:08", "api_prod", "fly_iad", "4xKq…Zt9F"],
+    ["11:42:08", "api_prod", "aws_use1", "3mPw…H7aE"],
+    ["11:40:51", "worker", "hz_fsn1", "5fRb…Ux2N"],
+    ["11:37:12", "ci_deploy", "do_ams3", "2gTc…Wq8D"],
     ["11:31:44", "unknown", "none", "denied"],
   ];
   return (
