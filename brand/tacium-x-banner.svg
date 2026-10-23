@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="500" viewBox="0 0 1500 500">
+<defs>
+ <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1.2" cy="1.2" r="1.2" fill="#dedcea"/></pattern>
+ <radialGradient id="glow"><stop stop-color="#c8c1ff" stop-opacity=".85"/><stop offset=".62" stop-color="#e9e6ff" stop-opacity=".48"/><stop offset="1" stop-color="#f7f7fa" stop-opacity="0"/></radialGradient>
+ <linearGradient id="color" x1=".1" y1="0" x2=".9" y2="1"><stop stop-color="#6c5cff"/><stop offset=".52" stop-color="#a99bff"/><stop offset="1" stop-color="#ff6aa2"/></linearGradient>
+</defs>
+<rect width="1500" height="500" fill="#f7f7fa"/><rect width="1500" height="500" fill="url(#dots)"/>
+<ellipse cx="1195" cy="250" rx="340" ry="310" fill="url(#glow)"/>
+<g transform="translate(112 114)"><path d="M1.00 -23.38 A22 22 0 0 1 21.92 -8.17 L9.08 -4.00 A8.5 8.5 0 0 0 1.00 -9.88 Z" fill="#0b0b12"/><path d="M22.54 -6.27 A22 22 0 0 1 14.55 18.32 L6.61 7.40 A8.5 8.5 0 0 0 9.70 -2.10 Z" fill="#0b0b12"/><path d="M12.93 19.50 A22 22 0 0 1 -12.93 19.50 L-5.00 8.58 A8.5 8.5 0 0 0 5.00 8.58 Z" fill="#0b0b12"/><path d="M-14.55 18.32 A22 22 0 0 1 -22.54 -6.27 L-9.70 -2.10 A8.5 8.5 0 0 0 -6.61 7.40 Z" fill="#0b0b12"/><path d="M-21.92 -8.17 A22 22 0 0 1 -1.00 -23.38 L-1.00 -9.88 A8.5 8.5 0 0 0 -9.08 -4.00 Z" fill="#0b0b12"/><text x="40" y="11" class="brand">tacium</text></g>
+<text x="112" y="258" class="headline">Your secrets shouldn&apos;t live</text>
+<text x="112" y="337" class="headline" fill="#7a7a8c">in one place.</text>
+<text x="116" y="401" class="sub">Your .env, split across independent nodes.</text>
+<text x="116" y="440" class="sub">Live on Robinhood Chain.</text>
+<rect x="1055" y="110" width="280" height="280" rx="45" fill="#0b0b12"/>
+<g><path d="M1199.67 143.10 A107 107 0 0 1 1295.22 212.53 L1235.28 234.94 A43 43 0 0 0 1196.88 207.04 Z" fill="#fff"/><path d="M1298.11 221.41 A107 107 0 0 1 1261.61 333.74 L1221.77 283.65 A43 43 0 0 0 1236.44 238.51 Z" fill="#fff"/><path d="M1254.06 339.23 A107 107 0 0 1 1135.94 339.23 L1171.27 285.86 A43 43 0 0 0 1218.73 285.86 Z" fill="#fff"/><path d="M1128.39 333.74 A107 107 0 0 1 1091.89 221.41 L1153.56 238.51 A43 43 0 0 0 1168.23 283.65 Z" fill="#fff"/><path d="M1094.78 212.53 A107 107 0 0 1 1190.33 143.10 L1193.12 207.04 A43 43 0 0 0 1154.72 234.94 Z" fill="#fff"/><circle cx="1195" cy="250" r="44" fill="#0b0b12"/></g>
+<text x="1195" y="435" class="mark-label">TACIUM</text>
+<style>
+.brand{font:700 36px 'Albert Sans',Arial,sans-serif;letter-spacing:-1.3px;fill:#0b0b12}
+.headline{font:400 70px 'Albert Sans',Arial,sans-serif;letter-spacing:-2.6px;fill:#0b0b12}
+.sub{font:400 24px 'Albert Sans',Arial,sans-serif;fill:#33333f}
+.mark-label{font:600 16px 'Albert Sans',Arial,sans-serif;letter-spacing:5px;text-anchor:middle;fill:#4e4868}
+</style></svg>
