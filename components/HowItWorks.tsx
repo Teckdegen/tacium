@@ -83,7 +83,7 @@ function JoinArt() {
 
 const steps = [
   { n: "01", title: "Split", desc: "Your secrets are encrypted on your machine and broken into shards.", Art: SplitArt },
-  { n: "02", title: "Spread", desc: "Each shard goes to an independent node on a different cloud, registered on Robinhood Chain.", Art: SpreadArt },
+  { n: "02", title: "Spread", desc: "Each shard goes to an independent node on a different cloud, registered on Solana.", Art: SpreadArt },
   { n: "03", title: "Reassemble", desc: "Only your verified app can rebuild them, at runtime, and every rebuild is logged onchain.", Art: JoinArt },
 ];
 

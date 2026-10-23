@@ -133,7 +133,7 @@ export function AuditLog() {
     <div className="log-window">
       <div className="log-head">
         <span>Audit log</span>
-        <small>Robinhood Chain · live</small>
+          <small>Solana · live</small>
       </div>
       <table>
         <thead>

@@ -57,7 +57,7 @@ const items: {
   },
   {
     title: "Onchain audit",
-    desc: "Every access is logged on Robinhood Chain, so nobody can quietly read your secrets.",
+    desc: "Every access is logged on Solana, so nobody can quietly read your secrets.",
     link: "View the log",
     card: {
       name: "Audit",

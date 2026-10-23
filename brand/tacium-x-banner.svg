@@ -10,7 +10,7 @@
 <text x="112" y="258" class="headline">Your secrets shouldn&apos;t live</text>
 <text x="112" y="337" class="headline" fill="#7a7a8c">in one place.</text>
 <text x="116" y="401" class="sub">Your .env, split across independent nodes.</text>
-<text x="116" y="440" class="sub">Live on Robinhood Chain.</text>
+<text x="116" y="440" class="sub">Live on Solana.</text>
 <rect x="1055" y="110" width="280" height="280" rx="45" fill="#0b0b12"/>
 <g><path d="M1199.67 143.10 A107 107 0 0 1 1295.22 212.53 L1235.28 234.94 A43 43 0 0 0 1196.88 207.04 Z" fill="#fff"/><path d="M1298.11 221.41 A107 107 0 0 1 1261.61 333.74 L1221.77 283.65 A43 43 0 0 0 1236.44 238.51 Z" fill="#fff"/><path d="M1254.06 339.23 A107 107 0 0 1 1135.94 339.23 L1171.27 285.86 A43 43 0 0 0 1218.73 285.86 Z" fill="#fff"/><path d="M1128.39 333.74 A107 107 0 0 1 1091.89 221.41 L1153.56 238.51 A43 43 0 0 0 1168.23 283.65 Z" fill="#fff"/><path d="M1094.78 212.53 A107 107 0 0 1 1190.33 143.10 L1193.12 207.04 A43 43 0 0 0 1154.72 234.94 Z" fill="#fff"/><circle cx="1195" cy="250" r="44" fill="#0b0b12"/></g>
 <text x="1195" y="435" class="mark-label">TACIUM</text>

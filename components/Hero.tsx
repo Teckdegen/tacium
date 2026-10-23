@@ -19,7 +19,7 @@ const termLines: [string, string, string, string?][] = [
   ["✗", "t-bad", "rw_usw offline", "skipped"],
   ["✓", "t-ok", "shard 3/3", "aws_use1"],
   ["✓", "t-ok", "48 secrets loaded into memory"],
-  ["✓", "t-ok", "access logged onchain", "robinhood"],
+  ["✓", "t-ok", "access logged onchain", "solana"],
   ["▸", "t-acc", "listening on :3000"],
 ];
 
@@ -31,12 +31,12 @@ export default function Hero() {
           Your secrets shouldn&apos;t live <span className="muted">in one place.</span>
         </h1>
         <p className="lede">
-          Tacium splits your <code>.env</code> across independent nodes, coordinated on Robinhood
-          Chain. One gets hacked, nothing leaks. One goes down, you stay online.
+          Tacium splits your <code>.env</code> across independent nodes, coordinated on Solana.
+          One gets hacked, nothing leaks. One goes down, you stay online.
         </p>
         <Command />
         <p className="fine">
-          Live on Robinhood Chain. Every node is registered and every access is logged onchain.
+          Live on Solana. Every node is registered and every access is logged onchain.
         </p>
       </div>
 
